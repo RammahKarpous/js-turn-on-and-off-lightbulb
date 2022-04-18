@@ -1,0 +1,25 @@
+body {
+  background: #F6F6F6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh;
+}
+body p {
+  color: #676767;
+}
+body .buttons {
+  display: flex;
+  gap: 12px;
+}
+body .buttons button {
+  padding: 12px 24px;
+  border: none;
+  background: #D8D8D8;
+  border-radius: 5px;
+}
+
+/*# sourceMappingURL=index.css.map */
